@@ -32,7 +32,7 @@
 
 ### 1. Клонирование репозитория
 ```bash
-git clone https://github.com/Dosh1rac/altushka-messenger.git
+git clone https://github.com/Dosh1rac/Altushka-Stasy
 cd altushka-messenger
 ```
 
