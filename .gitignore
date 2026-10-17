@@ -1,0 +1,10 @@
+.env
+config.json
+stacy_save_*.json
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.spec
+.venv/
+venv/
